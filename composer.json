@@ -1,0 +1,17 @@
+{
+    "name": "cmh/demo",
+    "description": "cmh/demo",
+    "autoload": {
+        "psr-4": {
+            "cmh\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hide々蔡",
+            "email": "caiminghuai@foxmail.com"
+        }
+    ],
+    "require": {}
+}
